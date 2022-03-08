@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pag36/iot-2021.git"
+    "url": "git+https://github.com/vipkas/IoT-Book.git"
   },
   "keywords": [],
   "author": "",
@@ -20,7 +20,7 @@
     "gitbook-cli": "^2.3.2"
   },
   "bugs": {
-    "url": "https://github.com/pag36/iot-2021/issues"
+    "url": "https://github.com/vipkas/IoT-Book/issues"
   },
-  "homepage": "https://github.com/pag36/iot-2021#readme"
+  "homepage": "https://github.com/vipkas/IoT-Book#readme"
 }
